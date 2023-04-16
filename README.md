@@ -8,7 +8,7 @@ Our vision is to create a comprehensive financial reporting solution that caters
 ## Team Members
 This project is done by three people: Dmitry Baron, Haibi Lu, and Viola Pu.
 
-### Dmitry Baron @dmitrybaron(https://github.com/dmitrybaron)
+### Dmitry Baron [@dmitrybaron](https://github.com/dmitrybaron)
 Dmitry Baron is the SME in finance and his responsibilities include:
 
 - Coming up with ideas about supervising outputs and providing guidance about generating better results.
@@ -17,7 +17,7 @@ Dmitry Baron is the SME in finance and his responsibilities include:
 - Finding the right keywords for model training.
 - Evaluating results and cleaning up final outputs.
 
-### Haibi Lu @hlu17(https://github.com/hlu17)
+### Haibi Lu [@hlu17](https://github.com/hlu17)
 Haibi Lu's responsibilities include:
 
 - Coming up with modeling approaches.
